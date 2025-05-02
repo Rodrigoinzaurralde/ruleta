@@ -47,6 +47,7 @@ ruleta.sh           # Script principal
 README.md           # Este archivo
 
 🧑‍💻 Autor
+
 Rodrigo Inzaurralde
 
 

@@ -41,10 +41,6 @@ Ejemplo
 Este simulador está diseñado para poner a prueba estas estrategias en un entorno controlado. 
 Verás cómo, incluso con métodos “matemáticamente sólidos”, el azar y los límites de capital te llevan inevitablemente a perder si juegas lo suficiente.
 
-📁 Estructura del proyecto
-
-ruleta.sh           # Script principal
-README.md           # Este archivo
 
 🧑‍💻 Autor
 

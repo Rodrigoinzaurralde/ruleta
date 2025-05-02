@@ -27,11 +27,13 @@ Este proyecto tiene como propósito demostrar de manera práctica y educativa qu
 ./ruleta.sh -m <dinero_inicial> -t <estrategia>
 ```
 Parámetros
+
 -m: Dinero inicial para jugar (ejemplo: 100)
 
 -t: Estrategia a utilizar: martingala o inverseLabouchere
 
 Ejemplo
+
 ./ruleta.sh -m 100 -t martingala
 
 📊 Objetivo
